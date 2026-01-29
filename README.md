@@ -9,7 +9,11 @@
 
 <div align="center">
 
-[![Watch Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge)](https://drive.google.com/file/d/1rn0J9gO8B3O-6ztSpqTld4NhC2HYvGmA/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1rn0J9gO8B3O-6ztSpqTld4NhC2HYvGmA/view?usp=sharing">
+  <img src="https://drive.google.com/thumbnail?id=1rn0J9gO8B3O-6ztSpqTld4NhC2HYvGmA&sz=w1000" alt="Demo Video" width="800"/>
+</a>
+
+**▶️ [Click to watch the full demonstration video](https://drive.google.com/file/d/1rn0J9gO8B3O-6ztSpqTld4NhC2HYvGmA/view?usp=sharing)**
 
 </div>
 
@@ -294,7 +298,7 @@ This project demonstrates mastery of:
 ## 📄 Sample Results
 
 ### Input Document
-![Sample Input](data/image.jpg)
+![Sample Input](data/WhatsApp%20Image%202026-01-23%20at%2011.10.19%20AM.jpeg)
 
 ### Extracted Output
 See [ocr_result.docx](ocr_result.docx) for a complete example of the formatted output.
