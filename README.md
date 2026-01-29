@@ -5,6 +5,8 @@
 [![Framework](https://img.shields.io/badge/Framework-Gradio-orange)](https://gradio.app/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
 
+> 📄 **[Click here to view the complete project report](Ultra_OCR_Project_Report.docx)**
+
 ## 📹 Demo Video
 
 <div align="center">
