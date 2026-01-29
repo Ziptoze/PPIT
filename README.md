@@ -7,7 +7,11 @@
 
 ## 📹 Demo Video
 
-https://github.com/Ziptoze/PPIT/assets/your-asset-id/DEMO%20PPIT.mp4
+<div align="center">
+
+[![Watch Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge)](https://drive.google.com/file/d/1rn0J9gO8B3O-6ztSpqTld4NhC2HYvGmA/view?usp=sharing)
+
+</div>
 
 > **Watch the full demonstration of Ultra OCR in action, showcasing real-time transcription, equation rendering, and document export.**
 
@@ -30,11 +34,11 @@ https://github.com/Ziptoze/PPIT/assets/your-asset-id/DEMO%20PPIT.mp4
 
 This project was developed by **The Best Team** as part of the **Programming Paradigms and Integrated Technologies (PPIT)** course:
 
-| Name | Student ID | Role |
-|------|------------|------|
-| **Abdul Rehman** | 22i-1390 | Lead Developer & Model Integration |
-| **Usman Shahid** | 22i-0504 | UI/UX Design & Frontend Development |
-| **Rameen Elahi** | 22i-0565 | Testing & Documentation |
+| Name | Student ID |
+|------|------------|
+| **Abdul Rehman** | 22i-1390 |
+| **Usman Shahid** | 22i-0504 |
+| **Rameen Elahi** | 22i-0565 |
 
 ---
 
@@ -312,7 +316,6 @@ For questions, feedback, or collaboration:
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/Ziptoze/PPIT/issues)
 - **Live Demo**: [https://huggingface.co/spaces/Ziptoze/PPITBestProjEver](https://huggingface.co/spaces/Ziptoze/PPITBestProjEver)
-- **Team Lead**: Abdul Rehman (22i-1390)
 
 ---
 
