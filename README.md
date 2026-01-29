@@ -7,9 +7,9 @@
 
 ## 📹 Demo Video
 
-https://github.com/user-attachments/assets/your-video-asset-id
+https://github.com/Ziptoze/PPIT/assets/your-asset-id/DEMO%20PPIT.mp4
 
-> **Note:** Upload `DEMO PPIT.mov.mp4` to GitHub to auto-generate the preview link above.
+> **Watch the full demonstration of Ultra OCR in action, showcasing real-time transcription, equation rendering, and document export.**
 
 ---
 
